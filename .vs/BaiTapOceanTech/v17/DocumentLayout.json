@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\huyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\huyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\xaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\xaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\tinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\tinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\employeecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\employeecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\impl\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\impl\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\employeecertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\employeecertificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\huyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\huyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\xacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\xacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\controllers\\tinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:controllers\\tinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\mapper\\impl\\huyenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:mapper\\impl\\huyenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\response\\employeecertificateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\response\\employeecertificateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\employeecertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\employeecertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\iemployeecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\iemployeecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\mapper\\impl\\employeecertificatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:mapper\\impl\\employeecertificatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\request\\employeecertificate\\employeecertificatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\request\\employeecertificate\\employeecertificatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\request\\employeecertificate\\employeecertificatecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\request\\employeecertificate\\employeecertificatecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\employeecertificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\employeecertificatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\utility\\mycronjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:utility\\mycronjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\utility\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:utility\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\request\\employee\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\request\\employee\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\request\\employee\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\request\\employee\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\request\\employee\\employeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\request\\employee\\employeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\utility\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:utility\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\ihuyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\ihuyenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Solution-VsCode\\WebBanAo - Backend - Backup\\Models\\Ultility\\Validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\services\\ixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|BaiTapOceanTech.csproj|solutionrelative:services\\ixaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 802,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\CertificateService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\CertificateService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\CertificateService.cs",
+              "RelativeToolTip": "Services\\impl\\CertificateService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:58:13.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeCertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\EmployeeCertificateService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\EmployeeCertificateService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\EmployeeCertificateService.cs",
+              "RelativeToolTip": "Services\\impl\\EmployeeCertificateService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:09:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TinhController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\TinhController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TinhController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\TinhController.cs",
+              "RelativeToolTip": "Controllers\\TinhController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:36:14.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\Certificate.cs",
+              "RelativeDocumentMoniker": "Models\\Certificate.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\Certificate.cs",
+              "RelativeToolTip": "Models\\Certificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:14:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeCertificateController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\EmployeeCertificateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeCertificateController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\EmployeeCertificateController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeCertificateController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwG0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:01:25.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\impl\\EmployeeService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwHAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:50:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HuyenService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\HuyenService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\HuyenService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\HuyenService.cs",
+              "RelativeToolTip": "Services\\impl\\HuyenService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:35:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TinhService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\TinhService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\TinhService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\TinhService.cs",
+              "RelativeToolTip": "Services\\impl\\TinhService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:18:01.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XaService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\XaService.cs",
+              "RelativeDocumentMoniker": "Services\\impl\\XaService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\impl\\XaService.cs",
+              "RelativeToolTip": "Services\\impl\\XaService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:39:12.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:34:55.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HuyenController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\HuyenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HuyenController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\HuyenController.cs",
+              "RelativeToolTip": "Controllers\\HuyenController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:41:23.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XaController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\XaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\XaController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\XaController.cs",
+              "RelativeToolTip": "Controllers\\XaController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:43:44.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwH8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:07:08.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CertificateController.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\CertificateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CertificateController.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Controllers\\CertificateController.cs",
+              "RelativeToolTip": "Controllers\\CertificateController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwH8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:23:07.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeCertificate.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\EmployeeCertificate.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeCertificate.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\EmployeeCertificate.cs",
+              "RelativeToolTip": "Models\\EmployeeCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:16:14.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HuyenMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\HuyenMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\impl\\HuyenMapper.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\HuyenMapper.cs",
+              "RelativeToolTip": "Mapper\\impl\\HuyenMapper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:29:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:52:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeCertificateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Response\\EmployeeCertificateResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Response\\EmployeeCertificateResponse.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Response\\EmployeeCertificateResponse.cs",
+              "RelativeToolTip": "Models\\DTO\\Response\\EmployeeCertificateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:39:37.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeCertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IEmployeeCertificateService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeCertificateService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IEmployeeCertificateService.cs",
+              "RelativeToolTip": "Services\\IEmployeeCertificateService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:14:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeCertificateMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeCertificateMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\impl\\EmployeeCertificateMapper.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeCertificateMapper.cs",
+              "RelativeToolTip": "Mapper\\impl\\EmployeeCertificateMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:40:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeCertificateDelete.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateDelete.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateDelete.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateDelete.cs",
+              "RelativeToolTip": "Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateDelete.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAywBEAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:40:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAiwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:49:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeCertificateCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateCreate.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateCreate.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateCreate.cs",
+              "RelativeToolTip": "Models\\DTO\\Request\\EmployeeCertificate\\EmployeeCertificateCreate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAywBAAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:40:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeCertificateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\EmployeeCertificateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\EmployeeCertificateDTO.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\EmployeeCertificateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\EmployeeCertificateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:39:23.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyCronJob.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\MyCronJob.cs",
+              "RelativeDocumentMoniker": "Utility\\MyCronJob.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\MyCronJob.cs",
+              "RelativeToolTip": "Utility\\MyCronJob.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:11:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\Status.cs",
+              "RelativeDocumentMoniker": "Utility\\Status.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\Status.cs",
+              "RelativeToolTip": "Utility\\Status.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:40:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\impl\\EmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeMapper.cs",
+              "RelativeToolTip": "Mapper\\impl\\EmployeeMapper.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:28:41.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeUpdate.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Request\\Employee\\EmployeeUpdate.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeUpdate.cs",
+              "RelativeToolTip": "Models\\DTO\\Request\\Employee\\EmployeeUpdate.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewB8AAAAcAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:46:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeDelete.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Request\\Employee\\EmployeeDelete.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeDelete.cs",
+              "RelativeToolTip": "Models\\DTO\\Request\\Employee\\EmployeeDelete.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB8AAAAcAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:46:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeCreate.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Request\\Employee\\EmployeeCreate.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Request\\Employee\\EmployeeCreate.cs",
+              "RelativeToolTip": "Models\\DTO\\Request\\Employee\\EmployeeCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:45:58.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Response\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Response\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\Response\\EmployeeResponse.cs",
+              "RelativeToolTip": "Models\\DTO\\Response\\EmployeeResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:45:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Models\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:45:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\Validation.cs",
+              "RelativeDocumentMoniker": "Utility\\Validation.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Utility\\Validation.cs",
+              "RelativeToolTip": "Utility\\Validation.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwE0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:42:09.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IHuyenService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IHuyenService.cs",
+              "RelativeDocumentMoniker": "Services\\IHuyenService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IHuyenService.cs",
+              "RelativeToolTip": "Services\\IHuyenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:35:03.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T17:09:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T15:23:37.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\WebBanAo - Backend - Backup\\Models\\Ultility\\Validation.cs",
+              "ToolTip": "F:\\Solution-VsCode\\WebBanAo - Backend - Backup\\Models\\Ultility\\Validation.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:05:35.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IXaService.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IXaService.cs",
+              "RelativeDocumentMoniker": "Services\\IXaService.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Services\\IXaService.cs",
+              "RelativeToolTip": "Services\\IXaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:38:47.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
