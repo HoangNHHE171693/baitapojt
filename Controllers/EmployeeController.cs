@@ -1,11 +1,11 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Employee;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Services;
+﻿using Hoangnhhe171693.Models.DTO.Request.Employee;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Services;
 using Microsoft.AspNetCore.Mvc;
-using static BaiTapOceanTech.Utility.Status;
+using static Hoangnhhe171693.Utility.Status;
 using System.Net;
 
-namespace BaiTapOceanTech.Controllers;
+namespace Hoangnhhe171693.Controllers;
 [ApiController]
 [Route("/api/[controller]")]
 public class EmployeeController : ControllerBase

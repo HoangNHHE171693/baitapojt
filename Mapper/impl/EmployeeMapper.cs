@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Employee;
-using BaiTapOceanTech.Models.DTO.Response;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Employee;
+using Hoangnhhe171693.Models.DTO.Response;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 
-namespace BaiTapOceanTech.Mapper.impl;
+namespace Hoangnhhe171693.Mapper.impl;
 
 public class EmployeeMapper : IEmployeeMapper
 {

@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Xa;
-using BaiTapOceanTech.Models.DTO.Response;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Xa;
+using Hoangnhhe171693.Models.DTO.Response;
 using Microsoft.AspNetCore.Http.HttpResults;
 
-namespace BaiTapOceanTech.Mapper.impl;
+namespace Hoangnhhe171693.Mapper.impl;
 
 public class XaMapper : IXaMapper
 {

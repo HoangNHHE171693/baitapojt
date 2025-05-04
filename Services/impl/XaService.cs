@@ -1,14 +1,14 @@
-﻿using BaiTapOceanTech.DB;
-using BaiTapOceanTech.Mapper;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Xa;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Utility;
-using BaiTapOceanTech.Utility;
+﻿using Hoangnhhe171693.DB;
+using Hoangnhhe171693.Mapper;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Xa;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Utility;
+using Hoangnhhe171693.Utility;
 using Microsoft.EntityFrameworkCore;
 using System.Text.RegularExpressions;
 
-namespace BaiTapOceanTech.Services.impl;
+namespace Hoangnhhe171693.Services.impl;
 
 public class XaService : IXaService
 {

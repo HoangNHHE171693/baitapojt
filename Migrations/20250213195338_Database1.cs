@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace BaiTapOceanTech.Migrations
+namespace Hoangnhhe171693.Migrations
 {
     /// <inheritdoc />
     public partial class Database1 : Migration

@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Huyen;
-using BaiTapOceanTech.Models.DTO.Request;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Models;
+﻿using Hoangnhhe171693.Models.DTO.Request.Huyen;
+using Hoangnhhe171693.Models.DTO.Request;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Models;
 
-namespace BaiTapOceanTech.Mapper;
+namespace Hoangnhhe171693.Mapper;
 
 public interface IHuyenMapper
 {

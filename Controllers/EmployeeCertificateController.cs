@@ -1,12 +1,12 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Certificate;
-using BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Services;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Certificate;
+using Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
-namespace BaiTapOceanTech.Controllers;
+namespace Hoangnhhe171693.Controllers;
 [ApiController]
 [Route("/api/[controller]")]
 public class EmployeeCertificateController : ControllerBase

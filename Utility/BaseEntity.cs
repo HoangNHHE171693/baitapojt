@@ -1,4 +1,4 @@
-﻿namespace BaiTapOceanTech.Utility;
+﻿namespace Hoangnhhe171693.Utility;
 
 public class BaseEntity
 {

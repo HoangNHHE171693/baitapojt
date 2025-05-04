@@ -1,7 +1,7 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate;
-using BaiTapOceanTech.Models.DTO.Response;
+﻿using Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate;
+using Hoangnhhe171693.Models.DTO.Response;
 
-namespace BaiTapOceanTech.Services;
+namespace Hoangnhhe171693.Services;
 
 public interface IEmployeeCertificateService
 {

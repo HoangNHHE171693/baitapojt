@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Huyen;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Xa;
+﻿using Hoangnhhe171693.Models.DTO.Request.Huyen;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Xa;
 
-namespace BaiTapOceanTech.Mapper;
+namespace Hoangnhhe171693.Mapper;
 
 public interface IXaMapper
 {

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace BaiTapOceanTech.Migrations
+namespace Hoangnhhe171693.Migrations
 {
     /// <inheritdoc />
     public partial class FixRelation1 : Migration

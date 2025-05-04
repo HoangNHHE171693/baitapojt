@@ -1,11 +1,11 @@
-﻿using BaiTapOceanTech.DB;
+﻿using Hoangnhhe171693.DB;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
-using BaiTapOceanTech.Utility;
-using BaiTapOceanTech.Services;
-using BaiTapOceanTech.Mapper;
-using BaiTapOceanTech.Mapper.impl;
-using BaiTapOceanTech.Services.impl;
+using Hoangnhhe171693.Utility;
+using Hoangnhhe171693.Services;
+using Hoangnhhe171693.Mapper;
+using Hoangnhhe171693.Mapper.impl;
+using Hoangnhhe171693.Services.impl;
 using Quartz;
 
 var builder = WebApplication.CreateBuilder(args);

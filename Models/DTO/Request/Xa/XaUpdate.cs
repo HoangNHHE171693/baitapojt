@@ -1,6 +1,6 @@
-﻿using static BaiTapOceanTech.Utility.Status;
+﻿using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Models.DTO.Request.Xa;
+namespace Hoangnhhe171693.Models.DTO.Request.Xa;
 
 public class XaUpdate
 {

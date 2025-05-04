@@ -1,8 +1,8 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate;
-using BaiTapOceanTech.Models.DTO.Response;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate;
+using Hoangnhhe171693.Models.DTO.Response;
 
-namespace BaiTapOceanTech.Mapper.impl;
+namespace Hoangnhhe171693.Mapper.impl;
 
 public class EmployeeCertificateMapper : IEmployeeCertificateMapper
 {

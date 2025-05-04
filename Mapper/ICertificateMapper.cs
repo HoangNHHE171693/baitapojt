@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Employee;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Certificate;
+﻿using Hoangnhhe171693.Models.DTO.Request.Employee;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Certificate;
 
-namespace BaiTapOceanTech.Mapper;
+namespace Hoangnhhe171693.Mapper;
 
 public interface ICertificateMapper
 {

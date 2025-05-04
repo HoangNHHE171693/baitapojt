@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "AddCertificateAsync",
     "RelativePath": "api/Certificate/add-certificate",
     "HttpMethod": "POST",
@@ -9,13 +9,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Certificate.CertificateCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Certificate.CertificateCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "SoftDeleteCertificateAsync",
     "RelativePath": "api/Certificate/change-status/{id}",
     "HttpMethod": "PUT",
@@ -55,7 +55,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "HardDeleteCertificateAsync",
     "RelativePath": "api/Certificate/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -90,7 +90,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "FindByNameAsync",
     "RelativePath": "api/Certificate/find-by-name/{name}",
     "HttpMethod": "GET",
@@ -125,7 +125,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/Certificate/find-Id/{id}",
     "HttpMethod": "GET",
@@ -160,7 +160,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "GetAllCertificateAsync",
     "RelativePath": "api/Certificate/get-all",
     "HttpMethod": "GET",
@@ -189,7 +189,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.CertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.CertificateController",
     "Method": "UpdateCertificateAsync",
     "RelativePath": "api/Certificate/update/{id}",
     "HttpMethod": "PUT",
@@ -218,7 +218,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Certificate.CertificateUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Certificate.CertificateUpdate",
         "IsRequired": true
       },
       {
@@ -229,7 +229,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Certificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Certificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -249,7 +249,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "AddEmployeeAsync",
     "RelativePath": "api/Employee/add-employee",
     "HttpMethod": "POST",
@@ -258,13 +258,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Employee.EmployeeCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Employee.EmployeeCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "SoftDeleteEmployeeAsync",
     "RelativePath": "api/Employee/change-status/{id}",
     "HttpMethod": "PUT",
@@ -304,7 +304,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "HardDeleteEmployeeAsync",
     "RelativePath": "api/Employee/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -339,7 +339,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -359,7 +359,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "FindByNameAsync",
     "RelativePath": "api/Employee/find-by-name/{name}",
     "HttpMethod": "GET",
@@ -374,7 +374,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -394,7 +394,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/Employee/find-Id/{id}",
     "HttpMethod": "GET",
@@ -409,7 +409,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "GetAllEmployeeAsync",
     "RelativePath": "api/Employee/get-all",
     "HttpMethod": "GET",
@@ -438,7 +438,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeController",
     "Method": "UpdateEmployeeAsync",
     "RelativePath": "api/Employee/update/{id}",
     "HttpMethod": "PUT",
@@ -467,7 +467,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Employee.EmployeeUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Employee.EmployeeUpdate",
         "IsRequired": true
       },
       {
@@ -478,7 +478,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Employee, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Employee, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "AddEmployeeCertificateAsync",
     "RelativePath": "api/EmployeeCertificate/add-empcer",
     "HttpMethod": "POST",
@@ -507,13 +507,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate.EmployeeCertificateCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate.EmployeeCertificateCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -533,7 +533,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "HardDeleteEmployeeCertificateAsync",
     "RelativePath": "api/EmployeeCertificate/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -548,7 +548,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -568,7 +568,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/EmployeeCertificate/find-Id/{id}",
     "HttpMethod": "GET",
@@ -583,7 +583,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -603,7 +603,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "GetAllEmployeeCertificateAsync",
     "RelativePath": "api/EmployeeCertificate/get-all",
     "HttpMethod": "GET",
@@ -612,7 +612,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "GetActiveCertificatesByEmployeeIdAsync",
     "RelativePath": "api/EmployeeCertificate/get-certificate-by-employeeId",
     "HttpMethod": "GET",
@@ -647,7 +647,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -667,7 +667,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.EmployeeCertificateController",
+    "ContainingType": "Hoangnhhe171693.Controllers.EmployeeCertificateController",
     "Method": "UpdateEmployeeCertificateAsync",
     "RelativePath": "api/EmployeeCertificate/update/{id}",
     "HttpMethod": "PUT",
@@ -676,7 +676,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate.EmployeeCertificateUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate.EmployeeCertificateUpdate",
         "IsRequired": true
       },
       {
@@ -687,7 +687,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.EmployeeCertificate, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.EmployeeCertificate, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -707,7 +707,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "AddHuyenAsync",
     "RelativePath": "api/Huyen/add-huyen",
     "HttpMethod": "POST",
@@ -716,13 +716,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Huyen.HuyenCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Huyen.HuyenCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -742,7 +742,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "SoftDeleteHuyenAsync",
     "RelativePath": "api/Huyen/change-status/{id}",
     "HttpMethod": "PUT",
@@ -762,7 +762,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -782,7 +782,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "HardDeleteHuyenAsync",
     "RelativePath": "api/Huyen/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -797,7 +797,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -817,7 +817,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "FindByNameAsync",
     "RelativePath": "api/Huyen/find-by-name/{name}",
     "HttpMethod": "GET",
@@ -832,7 +832,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/Huyen/find-Id/{postalCode}",
     "HttpMethod": "GET",
@@ -867,7 +867,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -887,7 +887,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "GetAllHuyenAsync",
     "RelativePath": "api/Huyen/get-all",
     "HttpMethod": "GET",
@@ -896,7 +896,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -916,7 +916,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "getHuyensByIdTinh",
     "RelativePath": "api/Huyen/tinh/{id}",
     "HttpMethod": "GET",
@@ -931,7 +931,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.HuyenController",
+    "ContainingType": "Hoangnhhe171693.Controllers.HuyenController",
     "Method": "UpdateHuyenAsync",
     "RelativePath": "api/Huyen/update/{id}",
     "HttpMethod": "PUT",
@@ -960,7 +960,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Huyen.HuyenUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Huyen.HuyenUpdate",
         "IsRequired": true
       },
       {
@@ -971,7 +971,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Huyen, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Huyen, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -991,7 +991,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "AddTinhAsync",
     "RelativePath": "api/Tinh/add-tinh",
     "HttpMethod": "POST",
@@ -1000,13 +1000,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Tinh.TinhCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Tinh.TinhCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "SoftDeleteTinhAsync",
     "RelativePath": "api/Tinh/change-status/{id}",
     "HttpMethod": "PUT",
@@ -1046,7 +1046,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1066,7 +1066,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "HardDeleteTinhAsync",
     "RelativePath": "api/Tinh/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -1081,7 +1081,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1101,7 +1101,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "FindByNameAsync",
     "RelativePath": "api/Tinh/find-by-name/{name}",
     "HttpMethod": "GET",
@@ -1116,7 +1116,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1136,7 +1136,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/Tinh/find-Id/{postalCode}",
     "HttpMethod": "GET",
@@ -1151,7 +1151,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "GetAllTinhAsync",
     "RelativePath": "api/Tinh/get-all",
     "HttpMethod": "GET",
@@ -1180,7 +1180,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1200,7 +1200,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.TinhController",
+    "ContainingType": "Hoangnhhe171693.Controllers.TinhController",
     "Method": "UpdateTinhAsync",
     "RelativePath": "api/Tinh/update/{id}",
     "HttpMethod": "PUT",
@@ -1209,7 +1209,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Tinh.TinhUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Tinh.TinhUpdate",
         "IsRequired": true
       },
       {
@@ -1220,7 +1220,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Tinh, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Tinh, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "AddXaAsync",
     "RelativePath": "api/Xa/add-xa",
     "HttpMethod": "POST",
@@ -1249,13 +1249,13 @@
     "Parameters": [
       {
         "Name": "create",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Xa.XaCreate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Xa.XaCreate",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1275,7 +1275,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "SoftDeleteXaAsync",
     "RelativePath": "api/Xa/change-status/{id}",
     "HttpMethod": "PUT",
@@ -1295,7 +1295,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1315,7 +1315,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "HardDeleteXaAsync",
     "RelativePath": "api/Xa/delete-permanent/{id}",
     "HttpMethod": "DELETE",
@@ -1330,7 +1330,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1350,7 +1350,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "FindByNameAsync",
     "RelativePath": "api/Xa/find-by-name/{name}",
     "HttpMethod": "GET",
@@ -1365,7 +1365,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1385,7 +1385,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "FindByIdAsync",
     "RelativePath": "api/Xa/find-Id/{postalCode}",
     "HttpMethod": "GET",
@@ -1400,7 +1400,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1420,7 +1420,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "GetAllXaAsync",
     "RelativePath": "api/Xa/get-all",
     "HttpMethod": "GET",
@@ -1429,7 +1429,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1449,7 +1449,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "getXaByIdHuyen",
     "RelativePath": "api/Xa/huyen/{id}",
     "HttpMethod": "GET",
@@ -1464,7 +1464,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -1484,7 +1484,7 @@
     ]
   },
   {
-    "ContainingType": "BaiTapOceanTech.Controllers.XaController",
+    "ContainingType": "Hoangnhhe171693.Controllers.XaController",
     "Method": "UpdateXaAsync",
     "RelativePath": "api/Xa/update/{id}",
     "HttpMethod": "PUT",
@@ -1493,7 +1493,7 @@
     "Parameters": [
       {
         "Name": "update",
-        "Type": "BaiTapOceanTech.Models.DTO.Request.Xa.XaUpdate",
+        "Type": "Hoangnhhe171693.Models.DTO.Request.Xa.XaUpdate",
         "IsRequired": true
       },
       {
@@ -1504,7 +1504,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BaiTapOceanTech.Models.Xa, BaiTapOceanTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Hoangnhhe171693.Models.Xa, Hoangnhhe171693, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

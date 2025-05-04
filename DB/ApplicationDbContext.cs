@@ -1,8 +1,8 @@
-﻿using BaiTapOceanTech.Models;
+﻿using Hoangnhhe171693.Models;
 using Microsoft.EntityFrameworkCore;
-using static BaiTapOceanTech.Utility.Status;
+using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.DB;
+namespace Hoangnhhe171693.DB;
 
 public class ApplicationDbContext : DbContext
 {

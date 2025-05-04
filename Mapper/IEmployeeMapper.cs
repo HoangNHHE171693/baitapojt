@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Xa;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Employee;
+﻿using Hoangnhhe171693.Models.DTO.Request.Xa;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Employee;
 
-namespace BaiTapOceanTech.Mapper;
+namespace Hoangnhhe171693.Mapper;
 
 public interface IEmployeeMapper
 {

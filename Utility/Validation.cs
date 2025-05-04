@@ -1,8 +1,8 @@
-﻿using BaiTapOceanTech.DB;
+﻿using Hoangnhhe171693.DB;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
-namespace BaiTapOceanTech.Utility;
+namespace Hoangnhhe171693.Utility;
 
 public class Validation<T> where T : class
 {

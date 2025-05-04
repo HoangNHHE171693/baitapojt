@@ -1,6 +1,6 @@
-﻿using static BaiTapOceanTech.Utility.Status;
+﻿using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Models.DTO.Request.Certificate;
+namespace Hoangnhhe171693.Models.DTO.Request.Certificate;
 
 public class CertificateCreate
 {

@@ -1,13 +1,13 @@
-﻿using BaiTapOceanTech.DB;
-using BaiTapOceanTech.Mapper;
-using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.EmployeeCertificate;
-using BaiTapOceanTech.Models.DTO.Response;
-using BaiTapOceanTech.Utility;
+﻿using Hoangnhhe171693.DB;
+using Hoangnhhe171693.Mapper;
+using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.EmployeeCertificate;
+using Hoangnhhe171693.Models.DTO.Response;
+using Hoangnhhe171693.Utility;
 using Microsoft.EntityFrameworkCore;
-using static BaiTapOceanTech.Utility.Status;
+using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Services.impl;
+namespace Hoangnhhe171693.Services.impl;
 
 public class EmployeeCertificateService : IEmployeeCertificateService
 {

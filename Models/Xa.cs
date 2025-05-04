@@ -1,7 +1,7 @@
-﻿using BaiTapOceanTech.Utility;
-using static BaiTapOceanTech.Utility.Status;
+﻿using Hoangnhhe171693.Utility;
+using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Models;
+namespace Hoangnhhe171693.Models;
 
 public class Xa : BaseEntity
 {

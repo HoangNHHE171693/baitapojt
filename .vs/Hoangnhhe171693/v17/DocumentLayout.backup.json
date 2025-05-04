@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|Hoangnhhe171693.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|Hoangnhhe171693.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|Hoangnhhe171693.csproj|c:\\users\\hueng\\downloads\\baitapoceantech-backend-master\\baitapoceantech-backend-master\\mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848FC4A0-4D82-4170-8F35-7633D3CE3F98}|Hoangnhhe171693.csproj|solutionrelative:mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 802,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:07:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\impl\\EmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Mapper\\impl\\EmployeeMapper.cs",
+              "RelativeToolTip": "Mapper\\impl\\EmployeeMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:06:59.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

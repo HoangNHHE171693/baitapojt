@@ -1,9 +1,9 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Tinh;
-using BaiTapOceanTech.Models.DTO.Response;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Tinh;
+using Hoangnhhe171693.Models.DTO.Response;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
-namespace BaiTapOceanTech.Mapper.impl;
+namespace Hoangnhhe171693.Mapper.impl;
 
 public class TinhMapper : ITinhMapper
 {

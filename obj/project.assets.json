@@ -2994,9 +2994,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech.csproj",
-      "projectName": "BaiTapOceanTech",
-      "projectPath": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech.csproj",
+      "projectUniqueName": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Hoangnhhe171693.csproj",
+      "projectName": "Hoangnhhe171693",
+      "projectPath": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\Hoangnhhe171693.csproj",
       "packagesPath": "C:\\Users\\hueng\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hueng\\Downloads\\BaiTapOceanTech-Backend-master\\BaiTapOceanTech-Backend-master\\obj\\",
       "projectStyle": "PackageReference",

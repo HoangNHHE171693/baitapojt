@@ -1,7 +1,7 @@
-﻿using BaiTapOceanTech.Services;
+﻿using Hoangnhhe171693.Services;
 using Quartz;
 
-namespace BaiTapOceanTech.Utility
+namespace Hoangnhhe171693.Utility
 {
     public class MyCronJob : IJob
     {

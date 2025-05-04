@@ -1,11 +1,11 @@
-﻿using BaiTapOceanTech.Models;
-using BaiTapOceanTech.Models.DTO.Request.Xa;
-using BaiTapOceanTech.Services;
+﻿using Hoangnhhe171693.Models;
+using Hoangnhhe171693.Models.DTO.Request.Xa;
+using Hoangnhhe171693.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
-using static BaiTapOceanTech.Utility.Status;
+using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Controllers;
+namespace Hoangnhhe171693.Controllers;
 [ApiController]
 [Route("/api/[controller]")]
 public class XaController : ControllerBase

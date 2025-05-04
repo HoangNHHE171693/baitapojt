@@ -1,8 +1,8 @@
-﻿using BaiTapOceanTech.Models.DTO.Request.Xa;
-using BaiTapOceanTech.Models.DTO.Response;
-using static BaiTapOceanTech.Utility.Status;
+﻿using Hoangnhhe171693.Models.DTO.Request.Xa;
+using Hoangnhhe171693.Models.DTO.Response;
+using static Hoangnhhe171693.Utility.Status;
 
-namespace BaiTapOceanTech.Services;
+namespace Hoangnhhe171693.Services;
 
 public interface IXaService 
 {
